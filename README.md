@@ -15,11 +15,11 @@
 - JavaScript – Form validation and event handling
 
 📂 Project Structure
-form-validation/
-│
-├── index.html      # HTML structure
-├── style.css       # CSS styling
-└── script.js       # JavaScript validation logic
+- form-validation/
+- │
+- ├── index.html      # HTML structure
+- ├── style.css       # CSS styling
+- └── script.js       # JavaScript validation logic
 
 📋 How It Works
 - User enters username, password, and re-enter password
