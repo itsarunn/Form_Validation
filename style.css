@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 244, 161);
+}
+#container{
+    background-color: rgb(111, 118, 199);
+    text-align: center;
+    padding: 15px;
+}
+#btn{
+    margin: 15px;
+}
+#error{
+    color: red;
+}
